@@ -1,0 +1,34 @@
+.me {
+  color: purple;
+  font-family:cursive;
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+p {
+  font-size:20px;
+}
+.poetry {
+  color: orange;
+  font-family:fantasy;
+}
+.poetry {
+  font-size:18px;
+}
+.trip {
+  color: turquoise;
+  font-family: sans-serif;
+}
+.quotes {
+  color: blue;
+  font-family: monospace;
+}
+h1 {
+  text-align: center;
+  color:Gray;
+  font-size: 60px;
+}
+body {
+  background-color: #F3DBF1;
+}
